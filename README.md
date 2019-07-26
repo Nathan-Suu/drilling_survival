@@ -3,7 +3,7 @@ Survival analysis for well drilling times for wells in the Mississippi Protracti
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Nathan-Suu/drilling_survival/master)
 
-![alt text](data/Shell_v_Exxon_drilling_performance.png)
+![Survival_Plot](https://github.com/Nathan-Suu/drilling_survival/blob/master/data/Shell_v_Exxon_driling_performance.png)
 
 ### Based on the LifeLines module:
 https://lifelines.readthedocs.io/en/latest/
