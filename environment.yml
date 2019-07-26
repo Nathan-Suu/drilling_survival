@@ -1,0 +1,12 @@
+name: drilling_survival
+
+dependencies:
+  - python=3.7
+  - jupyter
+  - numpy
+  - matplotlib
+  - pandas
+  - scipy
+  - seaborn
+  - lifelines
+  
